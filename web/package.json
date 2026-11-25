@@ -67,7 +67,7 @@
     "input-otp": "^1.4.2",
     "lodash": "^4.18.0",
     "lucide-react": "^0.507.0",
-    "postcss": "^8.5.10",
+    "postcss": "^8.5.23",
     "qrcode": "^1.5.4",
     "react": "19.2.1",
     "react-dom": "19.2.1",
